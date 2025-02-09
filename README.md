@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img align="center" width="100%" height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q3cndoeHJjcTNqc3o4aWVoa2RueDFmdWI1Y2F1b2Z1MnVmZDVoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif">
 
 <!--
 **Raffy626/Raffy626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
